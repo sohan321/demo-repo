@@ -13,7 +13,5 @@ Run
 
 # Git commands to push changes to server
 git add .
-
 git commit -m'add comments'
-
 git push origin main
