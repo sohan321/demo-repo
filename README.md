@@ -9,9 +9,12 @@ Watch tutorial on youtubej
 Run
 
   git config --global user.email "you@example.com"
+
   git config --global user.name "Your Name"
 
 # Git commands to push changes to server
 git add .
+
 git commit -m'add comments'
+
 git push origin main
